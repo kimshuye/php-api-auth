@@ -11,3 +11,7 @@ $auth->executeCommand();
 ?>/>
 <input type="submit" value="ok">
 </form>
+
+<?php
+
+?>
